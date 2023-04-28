@@ -1,6 +1,6 @@
 {
   "defaultSchema": "dataform_training",
-  "assertionSchema": "dataform_training",
+  "assertionSchema": "dataform_training123",
   "warehouse": "bigquery",
   "defaultDatabase": "whejna-modelling-sandbox",
   "defaultLocation": "europe-west3"
